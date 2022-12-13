@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42dfb6c7679bb7f48a276cccac437b43, type: 3}
+  m_Name: UFOsConfig
+  m_EditorClassIdentifier: 
+  <SpawnCooldown>k__BackingField: 10
+  <ScoresCount>k__BackingField: 100
+  <Prefab>k__BackingField: {fileID: 6219449533438560196, guid: ca191bf1e2c8d4846aef6d279b3f17ec, type: 3}
+  <StartSpeed>k__BackingField: 4
+  <AccelerationValue>k__BackingField: 0
+  <DecelerationPercent>k__BackingField: 1
+  <RotateAngle>k__BackingField: 100

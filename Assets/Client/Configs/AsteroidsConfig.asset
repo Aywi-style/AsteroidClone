@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1267fea6eccd07449ab1db04821ef76c, type: 3}
+  m_Name: AsteroidsConfig
+  m_EditorClassIdentifier: 
+  <SpawnCooldown>k__BackingField: 3
+  <Asteroids>k__BackingField:
+  - <AsteroidType>k__BackingField: 0
+    <StartSpeed>k__BackingField: 2
+    <ScoresCount>k__BackingField: 50
+    <Prefab>k__BackingField: {fileID: 8336643920901899635, guid: b199794676f41cc469bef762672383fe, type: 3}
+  - <AsteroidType>k__BackingField: 1
+    <StartSpeed>k__BackingField: 4
+    <ScoresCount>k__BackingField: 35
+    <Prefab>k__BackingField: {fileID: 8336643920901899635, guid: f621c2bbef811954b883121b9b03e098, type: 3}

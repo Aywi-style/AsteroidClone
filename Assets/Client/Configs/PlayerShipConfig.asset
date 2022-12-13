@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4521ec84239d60f4d9fc873ba264eed9, type: 3}
+  m_Name: PlayerShipConfig
+  m_EditorClassIdentifier: 
+  <PlayerShipPrefab>k__BackingField: {fileID: 2185366011869496644, guid: da5a57598d6f0614a9b21a218badef39, type: 3}
+  <StartSpeed>k__BackingField: 0
+  <AccelerationValue>k__BackingField: 10
+  <DecelerationPercent>k__BackingField: 0.2
+  <RotateAngle>k__BackingField: 360
+  <BulletPrefab>k__BackingField: {fileID: 2919747867889611697, guid: 7b834ae23cd431b45826def813009f98, type: 3}
+  <BulletLifeDuration>k__BackingField: 0.5
+  <BulletSpeed>k__BackingField: 40
+  <LaserEffectPrefab>k__BackingField: {fileID: 6500444612558792285, guid: b367f90aba94cf94cac978cab33d9468, type: 3}
+  <LaserEffectLifeDuration>k__BackingField: 5
+  <LasersMaxChargeValue>k__BackingField: 10
+  <LasersTimeToAddCharge>k__BackingField: 5
+  <LaserMaxCoolDown>k__BackingField: 1
